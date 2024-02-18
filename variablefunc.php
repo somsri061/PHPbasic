@@ -19,5 +19,5 @@ echo var_dump($total4)."<br>";
 
 // isset(true=1 false=0) unset empty is_null 
 // print_r()  แสดงค่าตัวแปร
-// var_dump() แสดงรายละเอรยดตัวแปร
+// var_dump() แสดงรายละเอียดตัวแปร
 ?>
